@@ -1,6 +1,6 @@
 
 # BooksStore-Project 🏬
-As a student at Brightfield Tech Academy who have learned the HTML, CSS and the basics of JavaScript, You are require to build a Book Management System which is a web-based application that allows librarians to manage books in a library. The system allows librarians to add, edit, and delete books in the library's inventory.
+As a student at Brightfield Tech Academy who have learned the HTML, CSS and the basics of JavaScript, You are require to build a Book Management System which is a web-based application that allows librarians to manage books in a library. The system allows librarians to add,read, edit, and delete books in the library's inventory.
 
 ## Learning objective 🍎
   - Learn how to get user input from HTML form. 

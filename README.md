@@ -24,15 +24,15 @@ This is a project requirement for student at BTA to build a simple web applicati
   - [optional] Add validation to the form using JavaScript
 
 ### 2. Display data received from the form
-    - Display data received from the form to the UI
-    - Display data in a table
-    - [optional] Add style to the table using CSS
+  - Display data received from the form to the UI
+  - Display data in a table
+  - [optional] Add style to the table using CSS
 
 ### 3. Store data in `localStorage`
-    - Store data received from the form to `localStorage`
+  - Store data received from the form to `localStorage`
     
 ### 4. Load data from `localStorage`
-    - Load data from `localStorage` and display it to the UI when the page is loaded
+  - Load data from `localStorage` and display it to the UI when the page is loaded
 
 
    

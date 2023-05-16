@@ -12,6 +12,7 @@ As a student at Brightfield Tech Academy who have learned the HTML, CSS and the 
   - Understand the `addEventListener` method and how to use it.
 
 ## Project Requirements
+Make sure that you create a github repository for your project. Create an `index.html` file for your html code, a `script.js` file for your JavaScript code and a seperate CSS file if you are going to style your project to make your project looks good 👍. Commit and push your changes to the remote repository after each task.
 
 ### 1. Create a form to get user input 👏
   - Create a form to get user input
@@ -58,9 +59,19 @@ As a student at Brightfield Tech Academy who have learned the HTML, CSS and the 
 - [ ] Delete the row from the table
 - [ ] Delete the data from the `localStorage`
    
+   ### Congratulations! 🎊 💯 You have completed the project. You can continue to the next step if you want to add more features to your application.
+
+## Stretch Requirements
+   
 ### 5. [optional] Add a search bar to the UI 💯
 - [ ] Add a search bar to the UI
 - [ ] Add an event listener to the search bar
 - [ ] Filter the data in the table based on the search term
 - [ ] Display the filtered data to the UI
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/BrightfieldTechAcademy/BooksStore-Project/issues)._
+
+
 

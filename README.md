@@ -1,18 +1,15 @@
-# BooksStore-Project
-This is a project requirement for student at BTA to build a simple web application to manage books in their library
 
-# BooksStore-Project
-This is a project requirement for student at BTA to build a simple web application to manage books in their library
+# BooksStore-Project 🏬
+As a student a Brightfield Tech Academy who have learned the HTML, CSS and the basics of JavaScript, You are require to build a Book Management System which is a web-based application that allows librarians to manage books in a library. The system allows librarians to add, edit, and delete books in the library's inventory.
 
 ## Learning objective 🍎
-  - Learn how to get user input form HTML form. 
-  - Learn how to display data received HTML form to the UI.
+  - Learn how to get user input from HTML form. 
+  - Learn how to display data received in HTML form to the UI.
   - Learn how to use `localStorage` to store data.
   - Learn how to use proper ES6 syntax.
   - Understand improvements that ES6 brings to JavaScript.
   - Understand how to use `class` and `object` in JavaScript.
-  - Understand `addEventListener` method and how to use it.
-
+  - Understand the `addEventListener` method and how to use it.
 
 ## Project Requirements
 
@@ -42,7 +39,7 @@ This is a project requirement for student at BTA to build a simple web applicati
 ### 3. Store and get the data from the `localStorage` 🏪
 
 #### What is `localStorage`?
-    `localStorage` is a property of the `window` object. It allows you to store data in the browser. The data will not be deleted when the browser is closed. It will be deleted only when you clear the browser cache.
+`localStorage` is a property of the `window` object. It allows you to store data in the browser. The data will not be deleted when the browser is closed. It will be deleted only when you clear the browser cache.
 
 #### How to use the `localStorage`? 
   - [ ] How to store data to `localStorage`
@@ -53,7 +50,7 @@ This is a project requirement for student at BTA to build a simple web applicati
       2. Convert the string to an object using `JSON.parse(bookString)`
       3. Display the data to the UI
 
-- [ ] **PLEASE NOTE: 🙏 Before you get to the next step, you should have your application working properly. You should be able to add a book to the table and the data should be stored in the `localStorage`. You should be able to see the data in the table when you refresh the page**.
+**PLEASE NOTE: 🙏 Before you get to the next step, you should have your application working properly. You should be able to add a book to the table and the data should be stored in the `localStorage`. You should be able to see the data in the table when you refresh the page**.
 
 ### 4. Delete a book from the table 😊
 - [ ] Add a delete button to each row in the table
